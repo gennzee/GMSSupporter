@@ -1,0 +1,6 @@
+move_tolerance=0.05
+main
+0.211;0.724;attacks=0;extras=[]
+0;0;attacks=0;extras=["keyPress('w')"]
+0.784;0.724;attacks=0;extras=[]
+0;0;attacks=0;extras=["keyPress('w')"]
